@@ -1,7 +1,5 @@
 <div align="center">
-<img src="./docs/images/icon.png" alt="The Ultimate ChatGPT Icon"/>
-
-<h1 align="center">The Ultimate ChatGPT 🌟</h1>
+<h1 align="center">Customize Ultimate ChatGPT 🌟</h1>
 
 The Ultimate ChatGPT is an AI-powered virtual assistant designed to provide an enhanced writing and problem-solving experience. With a wide range of features and plugins, it offers fast and accurate responses to your queries. Here's an overview of its capabilities:
 
